@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-ΣΚΟΠΟΣ ΤΟΥ ΣΥΓΚΕΚΡΙΜΕΝΟΥ PROJECT ΕΙΝΑΙ Η ΔΗΜΙΟΥΡΓΙΑ ΔΙΑΦΟΡΩΝ ΧΡΩΜΑΤΙΚΩΝ ΠΑΛΛΕΤΩΝ ΓΙΑ ΝΑ ΜΠΟΡΕΙ Ο ΧΡΗΣΤΗΣ ΝΑ ΕΠΙΛΕΞΕΙ ΤΟ ΧΡΩΜΑ ΤΗΣ ΑΡΕΣΚΕΙΑΣ ΤΟΥ. ΤΟ PROJECT ΔΕΝ ΧΡΗΣΙΜΟΠΟΙΕΙ BACKEND ΚΑΙ ΓΕΝΙΚΑ ΑΠΟΤΕΛΕΙΤΕ ΑΠΟ REACTFRAMEWORK), JAVASCRIPT, HTML ΚΑΙ CSS
+ΣΚΟΠΟΣ ΤΟΥ ΣΥΓΚΕΚΡΙΜΕΝΟΥ PROJECT ΕΙΝΑΙ Η ΔΗΜΙΟΥΡΓΙΑ ΔΙΑΦΟΡΩΝ ΧΡΩΜΑΤΙΚΩΝ ΠΑΛΛΕΤΩΝ ΓΙΑ ΝΑ ΜΠΟΡΕΙ Ο ΧΡΗΣΤΗΣ ΝΑ ΕΠΙΛΕΞΕΙ ΤΟ ΧΡΩΜΑ ΤΗΣ ΑΡΕΣΚΕΙΑΣ ΤΟΥ. ΤΟ PROJECT ΔΕΝ ΧΡΗΣΙΜΟΠΟΙΕΙ BACKEND ΚΑΙ ΓΕΝΙΚΑ ΑΠΟΤΕΛΕΙΤΕ ΑΠΟ REACT(FRAMEWORK), JAVASCRIPT, HTML ΚΑΙ CSS
 
 ## Available Scripts
 
